@@ -1,0 +1,1 @@
+IndustryUrlCollector: collect the urls
